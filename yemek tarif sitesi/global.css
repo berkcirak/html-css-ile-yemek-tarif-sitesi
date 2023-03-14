@@ -1,0 +1,154 @@
+.text-center{
+    text-align: center;
+}
+#navbar h1{
+    font-size: 40px;
+    text-align: center;
+}
+#navbar{
+    background-color: whitesmoke;
+    color:black;
+    height: 100px;
+    padding:6px;
+}
+.barlist a{
+    color:black;
+    margin: 25px;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+
+}
+.write{
+    margin:9px;
+    
+}
+.tarifler{
+    width: 70%;
+    margin:auto;
+}
+.barlist a:hover{
+    background-color: grey;
+    color:black;
+    padding: 3px;
+    border-radius: 4px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    font-size: 20px;
+    font-weight: 700;
+}
+input{
+    padding: 15px;
+    border: 4px;
+    border-style: solid;
+    border-radius: 7px;
+    
+}
+.barlist{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    list-style: none;
+
+} 
+#navbar ul li a:hover{
+    color:whitesmoke;
+    cursor:pointer;
+}
+.homepg{
+    background-color:  whitesmoke;
+    background-size: cover;
+    width: 100vw;
+    height: 700px;
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 30px;
+    padding: 25px;
+}
+.homepg h1{
+    text-align: center;
+}
+.homepg button{
+    padding:6px; 
+}
+#soaps{
+    background-color: whitesmoke;
+}
+#drinks{
+    background-color: whitesmoke;
+}
+#desserts{
+    background-color: whitesmoke;
+}
+#breakfast{
+    background-color: whitesmoke;
+}
+#cooks{
+    background-color: whitesmoke;
+}
+#soaps h1{
+    text-align: center;
+}
+#breakfast h1{
+    text-align: center;
+}
+.anasayfa h1{
+    background-color: whitesmoke;
+    color:black;
+    border-radius: 5px;
+    padding: 4px;
+}
+#cooks h1{
+    text-align: center;
+}
+#desserts h1{
+    text-align: center;
+}
+#drinks h1{
+    text-align: center;
+}
+h2{
+    color:purple;
+}
+.corbalar{
+    margin:10px;
+}
+
+.kahvaltılıklar{
+    margin:10px;
+}
+
+.anayemek{
+    margin:10px;
+}
+
+.tatlılar{
+    margin:10px;
+}
+.limonata{
+    margin:10px;
+}
+.frozen{
+    margin:10px;
+}
+img{
+    width: 200px;
+    height: 175px;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7px;
+
+}
+
+
